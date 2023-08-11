@@ -16,7 +16,7 @@ I'm zengxin, A FrontEnd Dev💻, love watching animation📺 and learning Japane
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plasti&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=plasti&logo=nginx&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plasti&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=plasti&logo=SASS&logoColor=white)
 
 
 ## 🛠️ My Dev Tools
@@ -25,6 +25,10 @@ I'm zengxin, A FrontEnd Dev💻, love watching animation📺 and learning Japane
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plasti&logo=notion&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plasti&logo=GoogleChrome&logoColor=white)
 
-## 📈 My GitHub Stats 
+## 📈 My GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakura0213&show_icons=true&theme=transparent&line_height=34" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura0213&layout=donut&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura0213&rank_icon=github)
+
