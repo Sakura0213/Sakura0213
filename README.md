@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-I'm zengxin, A FrontEnd Dev💻, love watching animation📺 and learning Japanese🌸.
+I'm zeng xin, A FrontEnd Dev💻, love watching animation📺 and learning Japanese🌸.
 </h3> 
 
 ## 🎯 My Technical Skills
