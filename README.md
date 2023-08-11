@@ -1,6 +1,6 @@
-<h2 align="center">
-Ciallo ～(∠・ω< )⌒★
-</h2>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=27&pause=1000&color=000000&width=435&lines=Ciallo+%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Typing SVG" /></a>
+</div>
 
 <h3 align="center">
 I'm zengxin, A FrontEnd Dev💻, love watching animation📺 and learning Japanese🌸.
