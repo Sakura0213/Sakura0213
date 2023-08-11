@@ -26,7 +26,7 @@ I'm zengxin, A FrontEnd Dev💻, love watching animation📺 and learning Japane
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plasti&logo=GoogleChrome&logoColor=white)
 
 ## 📈 My GitHub
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Sakura0213&show_icons=true&theme=transparent&line_height=34" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura0213&layout=donut&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
