@@ -8,7 +8,7 @@ I'm zengxin, A FrontEnd Dev💻, love watching animation📺 and learning Japane
 
 ## 🎯 My Technical Skills
 
-![vue3](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
+![vue3](https://img.shields.io/badge/Vue3-%2335495e.svg?style=plasti&logo=vuedotjs)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plasti&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plasti&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plasti&logo=css3&logoColor=white)
