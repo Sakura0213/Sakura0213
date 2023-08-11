@@ -30,7 +30,11 @@ I'm zeng xin, A FrontEnd Dev💻, love watching animation📺 and learning Japan
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura0213&layout=donut&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-![](https://raw.githubusercontent.com/Sakura0213/Sakura0213/main/assets/github-contribution-grid-snake.svg)
+## 📈 Contribution
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakura0213)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+--- 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sakura0213/count.svg" alt="Typing SVG" />
+</div>
 
