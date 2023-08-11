@@ -22,7 +22,6 @@ I'm zeng xin, A FrontEnd Dev💻, love watching animation📺 and learning Japan
 ## 🛠️ My Dev Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plasti&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plasti&logo=notion&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plasti&logo=GoogleChrome&logoColor=white)
 
 ## 📈 My GitHub
