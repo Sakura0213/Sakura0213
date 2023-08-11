@@ -1,32 +1,22 @@
 <h2 align="center">
-Hi there (●'◡'●)
+Ciallo ～(∠・ω< )⌒★
 </h2>
 
 <h3 align="center">
-I'm Daiwanxing, A FrontEnd Dev💻, love riding bicycle🚴‍♂ and running. 
+I'm zengxin, A FrontEnd Dev💻, love watching animation📺 and learning Japanese🌸.
 </h3> 
-
-## 🌱 I'm currently learning
-
-- **[Nuxt](https://nuxt.com/v3)**
-- **[Koa.js](https://koajs.com/)**
-- **[Uno.css](https://unocss.dev/)**
 
 ## 🎯 My Technical Skills
 
-![vuejs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
+![vue3](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plasti&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plasti&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plasti&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plasti&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plasti&logo=html5&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plasti&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plasti&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plasti&logo=nginx&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plasti&logo=SASS&logoColor=white)
-![nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=plasti&logo=nuxtdotjs&logoColor=white)
-![tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plasti&logo=tailwind-css&logoColor=white)
 
 
 ## 🛠️ My Dev Tools
